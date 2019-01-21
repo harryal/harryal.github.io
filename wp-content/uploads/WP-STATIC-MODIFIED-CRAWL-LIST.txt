@@ -1,4 +1,0 @@
-/
-/robots.txt
-/favicon.ico
-/sitemap.xml
